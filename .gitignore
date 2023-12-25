@@ -1,5 +1,7 @@
 .venv
 *__pycache__
-*.ipynb
+example.ipynb
+example2.ipynb
+get_data.ipynb
 data
 .vector_cache
