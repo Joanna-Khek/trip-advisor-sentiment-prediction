@@ -17,6 +17,7 @@ The model is deployed using FastAPI and containerised using Docker. The webpage 
 
 ## Getting Started
 To get started with the project, follow these steps:            
+
 **1. Clone the repository to your local machine**         
    ```git clone https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction```
 
