@@ -1,0 +1,9 @@
+data_name: tripadvisor_hotel_reviews.csv
+random_seed: 123
+num_epochs: 5
+batch_size: 8
+learning_rate: 0.00005
+
+project_name: Trip Advisor Sentiment Prediction
+model_filename: model.pt
+model_optim_filename: optimizer.pt
