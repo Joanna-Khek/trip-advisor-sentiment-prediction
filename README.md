@@ -13,22 +13,21 @@ Deployment | FastAPI, Docker
 ## Deployment
 The model is deployed using FastAPI and containerised using Docker. The webpage leverages **Jinja** and **Bootstrap** components
 
-![screenshot](https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction/assets/53141849/d54e9c07-ca3d-44a6-9870-ebcd7a5ae325)
+![web_ss](https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction/assets/53141849/cfbbc37b-6fc9-49b6-8699-7edbf41238fc)
+
 
 ## Getting Started
 To get started with the project, follow these steps:            
 
-**1. Clone the repository to your local machine**         
-   ```git clone https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction```
+1. Clone the repository to your local machine ``git clone https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction``
 
-**2. Navigate to the Project Directory**            
-  ```cd trip-advisor-sentiment-prediction```
+2. Navigate to the Project Directory ``cd trip-advisor-sentiment-prediction``
 
-**3. Build the Docker Image**              
-   ``docker build -t trip-advisor-sentiment . ``
+3. Build the Docker Image ``docker build -t trip-advisor-sentiment . ``
 
-**4. Run the Docker Container**   
-   ```docker run -p 8002:8002 trip-advisor-sentiment```
+4. Run the Docker Container ``docker run -p 8002:8002 trip-advisor-sentiment``
+
+5. View the API page ``http://localhost:8002/``
 
 ## Usage
 
