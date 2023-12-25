@@ -10,11 +10,13 @@ Data | https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
 Framework | PyTorch
 Deployment | FastAPI, Docker
 
+## Results
+The experiment results can be found in this notebook: ``src/bert.ipynb``
+
 ## Deployment
 The model is deployed using FastAPI and containerised using Docker. The webpage leverages **Jinja** and **Bootstrap** components
 
 ![web_ss](https://github.com/Joanna-Khek/trip-advisor-sentiment-prediction/assets/53141849/cfbbc37b-6fc9-49b6-8699-7edbf41238fc)
-
 
 ## Getting Started
 To get started with the project, follow these steps:            
