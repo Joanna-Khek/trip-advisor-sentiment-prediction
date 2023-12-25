@@ -6,7 +6,7 @@ The objective of this project is to develop a robust sentiment analysis system c
 
 Source | Link 
 --- | ---
-Data | https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews)https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
+Data | https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
 Framework | PyTorch
 Deployment | FastAPI, Docker
 
